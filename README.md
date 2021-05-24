@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-fernandes-dornelles/)](https://www.linkedin.com/in/vitor-theodoro-21a117202/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.fdornelles@gmail.com)](mailto:vitor-theodoro@hotmail.com)
 
-### 👨🏻‍💻 A little bit about me
-
 Hi there 👋🏻  
 
 <!--
