@@ -1,8 +1,8 @@
 
 # Vitor Theodoro
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodff)](https://github.com/thiagodff)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-fernandes-dornelles/)](https://www.linkedin.com/in/thiago-fernandes-dornelles/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.fdornelles@gmail.com)](mailto:thiago.fdornelles@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodff)](http://github.com/VitorTheodoro1/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-fernandes-dornelles/)](https://www.linkedin.com/in/vitor-theodoro-21a117202/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.fdornelles@gmail.com)](mailto:vitor-theodoro@hotmail.com)
 
 ### 👨🏻‍💻 A little bit about me
 
