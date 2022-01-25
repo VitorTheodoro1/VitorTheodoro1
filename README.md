@@ -6,23 +6,16 @@
 
 Hi there 👋🏻      
 
+#### 🚀 What do I have experience with?
 
-<!--
-**VitorTheodoro1/VitorTheodoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C language badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++ badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+#### 🌱 What do I want to learn? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🚀 What do I have experience with?
-HTML5 Badge CSS3 badge C language badge C++ badge Java badge Java badge
-
-🌱 What do I want to learn?
-ReactJS badge Next.js badge
+![ReactJS badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
