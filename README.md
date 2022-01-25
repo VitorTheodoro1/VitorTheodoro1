@@ -20,6 +20,3 @@ Hi there 👋🏻
 ![C++ badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![ReactJS badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-#### 🌱 What do I want to learn? 
-
