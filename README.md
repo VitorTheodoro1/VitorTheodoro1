@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 What do I have experience with?
+HTML5 Badge CSS3 badge C language badge C++ badge Java badge Java badge
+
+🌱 What do I want to learn?
+ReactJS badge Next.js badge
