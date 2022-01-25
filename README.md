@@ -4,8 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-fernandes-dornelles/)](https://www.linkedin.com/in/vitor-theodoro-21a117202/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.fdornelles@gmail.com)](mailto:vitor-theodoro@hotmail.com)
 
-Hi there 👋🏻      
+Hi there 👋🏻    
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tassiotfc&show_icons=true&theme=tokyonight"/>
+
+                         
 #### 🚀 What do I have experience with?
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
