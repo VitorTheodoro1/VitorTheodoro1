@@ -20,10 +20,9 @@ Hi there 👋🏻
 
   <div align=""><br>
   
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
-  <a href="https://www.typescriptlang.org/" />
-  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> </a>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   
   <a href="https://pt-br.reactjs.org/" />
   <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> </a>
