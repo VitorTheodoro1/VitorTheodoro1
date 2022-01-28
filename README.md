@@ -19,5 +19,5 @@ Hi there 👋🏻
 ![C++ badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![ReactJS badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+![JavaScript badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
 
