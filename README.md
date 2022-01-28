@@ -14,14 +14,32 @@ Hi there 👋🏻
 #### 🚀 What do I have experience with?
 
 
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <div align="center"><br>
+  
+  <a href="https://www.javascript.com/" />
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> </a>
+  
+  <a href="https://www.typescriptlang.org/" />
+  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /> </a>
+  
+  <a href="https://pt-br.reactjs.org/" />
+  <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" />
+  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" />
+  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> </a>
+  
+  <a href="https://devdocs.io/c/" />
+  <img align="center" alt="Erick-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> </a>
+  
+  <a href="https://devdocs.io/cpp/" />
+  <img align="center" alt="Erick-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" /> </a>
+  
+  <a href="https://docs.oracle.com/en/java/" />
+  <img align="center" alt="Erick-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> </a>
+</div>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C language badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++ badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![ReactJS badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+
 
