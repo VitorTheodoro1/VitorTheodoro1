@@ -10,7 +10,7 @@ Hi there 👋🏻
 <div align="center">
   <a href="https://github.com/ErickHDdS">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorTheodoro1&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTheodoro1&layout=compact&langs_count=7&theme=dark"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTheodoro1&layout=compact)](https://github.com/VitorTheodoro1/github-readme-stats)
   </a>
 </div>
  
